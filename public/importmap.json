@@ -1,1 +1,1 @@
-{"imports":{"homepage":"http://localhost:9001/src/spa.js","metronome":"http://localhost:9002/src/spa.ts"}}
+{"imports":{"homepage":"http://localhost:9001/spa.js","metronome":"http://localhost:9002/spa.js"}}
